@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmployeePayrollSystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
